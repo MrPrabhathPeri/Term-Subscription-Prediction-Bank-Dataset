@@ -1,4 +1,4 @@
-#Direct Marketing Campaign Analysis
+# Direct Marketing Campaign Analysis
 
 This project analyzes the direct marketing campaigns of a Portuguese banking institution. The objective is to predict whether a client will subscribe to a term deposit or not. The dataset used for this analysis was sourced from Kaggle and includes various features such as age, job, marital status, education, and more.
 
